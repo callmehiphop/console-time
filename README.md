@@ -1,9 +1,11 @@
 console.time polyfill
 =====================
 
-Lightweight and simple polyfill for `console.time()` and `console.timeEnd()`
+Lightweight and simple polyfill for `console.time()` and `console.timeEnd()`.
 
-## Example usage:
+Can be installed via bower with `bower install console-time --save-dev`.
+
+## Example usage
 
 ```
 # Start the timer by passing it a key
