@@ -14,7 +14,7 @@ setTimeout(function() {
   console.timeEnd('myTimer');
 }, 2000);
 
-# It should then log out something like like..
+# It should then log out something like..
 # myTimer: 2000ms
 ```
 
