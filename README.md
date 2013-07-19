@@ -17,7 +17,7 @@ setTimeout(function() {
 }, 2000);
 
 // It should then log out something like..
-// myTimer: 2000ms
+'myTimer: 2000ms'
 ```
 
 For more information on `console.time()` visit [MDN] (https://developer.mozilla.org/en-US/docs/Web/API/console.time).
