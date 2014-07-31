@@ -1,6 +1,6 @@
 {
   "name": "console-time",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "David Gramlich",
   "description": "console.time() polyfill",
   "main": "console-time.js",

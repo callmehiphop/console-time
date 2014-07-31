@@ -4,9 +4,8 @@
 
   var timers;
 
-  // do we have access to the console
-  // or does time method already exist?
-  if ( !console || console.time ) {
+  // do we have access to the console?
+  if ( !console ) {
     return;
   }
 
