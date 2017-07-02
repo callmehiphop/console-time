@@ -20,4 +20,4 @@ setTimeout(function() {
 'myTimer: 2000ms'
 ```
 
-For more information on `console.time()` visit [MDN] (https://developer.mozilla.org/en-US/docs/Web/API/console.time).
+For more information on `console.time()` visit [MDN](https://developer.mozilla.org/en-US/docs/Web/API/console.time).
